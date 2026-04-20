@@ -1,0 +1,2 @@
+cd distributed-drawing-board
+docker compose up --build
